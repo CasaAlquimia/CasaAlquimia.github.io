@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8"/>
+		<title>{{ page.title }}</title>
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	<body>
+		<header>
+			<h1>{{ page.title }}</h1>
+		</header>
+		<nav>
+			<ul>
+				<li><i class="icon-home"></i> <a href="{{site.baseurl}}/">Home</a></li>
+				<li><i class="icon-mail"></i> <a href="{{site.baseurl}}/contact">Contact</a></li>
+				<li><i class="icon-th"></i> <a href="{{site.baseurl}}/archive">Archive</a></li>
+				<li><i class="icon-rss"></i> <a href="{{site.baseurl}}/feed.xml">RSS Feed</a></li>
+			</ul>
+		</nav>
+		<main>
+			{{ content }}
+		</main>
+		<footer>
+			<p>&copy; <time>2014</time> Tarsicio Castillo</p>
+		</footer>
+	</body>
+</html>
