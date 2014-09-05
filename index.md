@@ -1,8 +1,6 @@
 ---
-layout: page
-title: Home
+layout: default
+title: Hostel Casa Alquimia
 ---
-
-# Hostel Casa Alquimia
 
 TODO
