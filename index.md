@@ -6,7 +6,7 @@ subtitle: The best Monteverde hostel for experiencing the cloud forest
 
 ![the hostel](/images/hostel.jpg)
 
-Casa Alquimia is a beautiful, quiet and comfortable house with a panormaic view of the valey, ideal for relaxing and withdrwing from the crowded and noisy city.
+Casa Alquimia is a beautiful, quiet and comfortable house with a panoramic view of the valley, ideal for relaxing and withdrawing from the crowded and noisy city.
 It is located close to several nature reserves, mountains and a few shops.
 A rich and healthy breakfast is provided every morning.
 
@@ -22,9 +22,9 @@ The hostel is largely constructed out of wood, situated amid the trees. This giv
 
 There are 3 double rooms with a two-person bed, large windows, furniture, and a private bathroom.
 
-There is one single room and a bunkbed room that are equally sunny, spacious and furnitured, though they have a shared bathroom.
+There is one single room and a bunk bed room that are equally sunny, spacious and furnitured, though they have a shared bathroom.
 
-There is a comfortable living room and a well-equiped kitchen at your disposal.
+There is a comfortable living room and a well-equipped kitchen at your disposal.
 All rooms include free breakfast and WiFi.
 
 ## The Location
@@ -35,21 +35,21 @@ Around the house, there are four big natural reserves where you can walk in the 
 Here you can see many plants and wildlife unique to this area.
 
 In the are there are many interesting locations such as a butterfly garden, a frog pond, a snake exhibition, a bat jungle, visits to organic farms, coffee tours, chocolate tours, and much more...
-You can practice extreme mountain sports such as canopy tours, suspension bridges, absailing from giants trees, mountain railways, etc.
+You can practice extreme mountain sports such as canopy tours, suspension bridges, abseiling from giants trees, mountain railways, etc.
 If you would rather enjoy the beach, the Pacific beaches of Puntarenas are a bus ride away, or just over one hour driving with a car.
 
-The vilage of Santa Elena is 20 minutes walking. There you will find many stores and restourants.
+The village of Santa Elena is 20 minutes walking. There you will find many stores and restaurants.
 A few hundred meter from the house is a smaller supermarket for your daily needs.
 
 ## The family
 
 ![the family](/images/family.jpg)
 
-Whe are a family of 6 that moved here from Equador a long time ago.
+We are a family of 6 that moved here from Ecuador a long time ago.
 We love making art, good food, and good company.
-Please be aur guest!
+Please be our guest!
 
-Both the house and the hostel where designed and lergely built by us.
+Both the house and the hostel where designed and largely built by us.
 This is an ongoing process, as we keep adding, changing and refining rooms.
 
 ## Art workshop
@@ -62,5 +62,5 @@ If you are interested in learning Arts, we offer the chance to learn different a
 
 Just **$25** per person per night.
 
-Calls us at +506 2645 6708
-or send an email to tarsicio dot castillo at gmail dot com.
+Calls us at **+506 2645 6708**
+or [send an email](mailto:trasicio.castillo@gmail.com).
