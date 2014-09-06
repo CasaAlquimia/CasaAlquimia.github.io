@@ -22,7 +22,7 @@ The hostel is largely constructed out of wood, situated amid the trees. This giv
 
 There are 3 double rooms with a two-person bed, large windows, furniture, and a private bathroom.
 
-There is one single room and a bunk bed room that are equally sunny, spacious and furnitured, though they have a shared bathroom.
+There is one single room and a bunk bed room that are equally sunny, spacious and furnished, though they have a shared bathroom.
 
 There is a comfortable living room and a well-equipped kitchen at your disposal.
 All rooms include free breakfast and WiFi.
